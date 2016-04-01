@@ -1,3 +1,6 @@
+/**
+ * CODER EN IJAVA GRACE A LA LIBRAIRIE AP.jar
+ */
 import extensions.*;
 class affichage extends Program {
 
